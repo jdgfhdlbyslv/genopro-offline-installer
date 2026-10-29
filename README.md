@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Genealogy-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 GenoPro Free Installer** — GenoPro is a Windows genealogy and genogram software for drawing family trees and medical genograms. Works without internet access, no account required. Full offline installation.
+**💻 GenoPro Free Installer** — GenoPro is genealogy software for Windows and macOS that specializes in drawing family trees and genograms. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About GenoPro
 
-GenoPro is a Windows genealogy and genogram software for drawing family trees and medical genograms. It supports detailed person records, relationship mapping, and creates printable genograms for clinical, educational, and family history purposes.
+GenoPro is genealogy software for Windows and macOS that specializes in drawing family trees and genograms. Create visual family diagrams showing family relationships, genograms for clinical use, and pedigree charts. GenoPro is popular in clinical settings for creating genograms to document family medical history alongside its genealogy tracking capabilities.
 
 ---
 
 ## ❌ Problem: GenoPro is hard to access
 
-- **Windows Only** — No macOS or Linux version available
-- **Paid License** — Requires purchase for full features
-- **Niche Genogram Focus** — Genogram capability less relevant than standard genealogy for most users
-- **Limited Online Sync** — No integration with Ancestry, FamilySearch, or other online genealogy services
+- **Commercial License** — Paid license required for full functionality
+- **Diagram Focus** — More focused on visual diagrams than comprehensive genealogy database features
+- **Platform Limitations** — Primary focus on Windows with macOS support
+- **Medical Features** — Clinical genogram features most useful for healthcare professionals
 
 ---
 
@@ -121,7 +121,7 @@ GenoPro is a Windows genealogy and genogram software for drawing family trees an
 
 ---
 
-**GenoPro Free Installer** — GenoPro is a Windows genealogy and genogram software for drawing family trees and medical genograms. Install without internet connection today!
+**GenoPro Free Installer** — GenoPro is genealogy software for Windows and macOS that specializes in drawing family trees and genograms. Install without internet connection today!
 
 <div align="center">
 
